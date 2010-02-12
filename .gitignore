@@ -1,0 +1,13 @@
+bin
+obj
+_ReSharper*
+ 
+*.resharper
+*.cache
+*~
+*.swp
+*.swo
+*.suo
+*.user
+*.bak
+*.orig
