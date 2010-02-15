@@ -1,5 +1,4 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
+﻿Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "__NAME__", "__NAME__.csproj", "{8B1562E6-1DC9-4D6D-AE96-1D0B71DF09B3}"
 EndProject
